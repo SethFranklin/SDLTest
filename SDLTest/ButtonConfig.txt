@@ -1,0 +1,10 @@
+0 A
+1 B
+2 X
+3 Y
+4 L-Bumper
+5 R-Bumper
+6 Select
+7 Start
+8 Left Stick Click
+9 Right Stick Click
